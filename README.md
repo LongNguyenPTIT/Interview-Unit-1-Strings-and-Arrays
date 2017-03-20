@@ -16,7 +16,7 @@
 
 **Arrays**
 
-- [] Read Sorting Algorithms
+- [x] Read Sorting Algorithms
   - Can you memorize one algorithm? What is it?
 - [x] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
   - Using a few sentences, describe what you've learned.
