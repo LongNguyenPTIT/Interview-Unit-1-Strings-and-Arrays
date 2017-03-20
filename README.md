@@ -1,5 +1,3 @@
-# Interview-Unit-1-Strings-and-Arrays
-
 ## Topics: Strings and Arrays
 
 * Arrays: ordered lists of items often used for sequential lists
@@ -18,16 +16,15 @@
 
 **Arrays**
 
-- [ ] Read Sorting Algorithms
+- [] Read Sorting Algorithms
   - Can you memorize one algorithm? What is it?
-- [ ] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
-  - Using a few sentences, describe what you've learned.
-- [ ] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
+- [x] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
+  - Using a few sentences, describe what you've learned.
+- [x] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
   - Using a few sentences, describe what you've learned
 
 **Coding**
-
-- [ ] Set up `exercism` and complete at least 2 exercises using `exercism submit`.
+- [x] Set up `exercism` and complete at least 2 exercises using `exercism submit`.
 
 ### Optional tasks
 
